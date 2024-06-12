@@ -1,6 +1,7 @@
 function skillsMember() {
     var skills = [
         "HTML",
+        "Java",
         "CSS",
         "JavaScript",
         "React",
